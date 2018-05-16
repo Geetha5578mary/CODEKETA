@@ -1,0 +1,7 @@
+num=float(input("enter number"))
+if(1<=num<=1000) :
+    print("positive")
+elif(num<0) :
+    print("negative")
+else :
+    print("zero")
